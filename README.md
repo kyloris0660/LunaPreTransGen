@@ -13,11 +13,11 @@ LunaPreTransGen 是一个用于生成 LunaTranslator 预翻译文件的工具。
 ```json
 [
   {
-    "name": "ソーマ",
-    "message": "「────」"
+    "name": "XXX",
+    "message": "「XXX」"
   },
   {
-    "message": "一瞬の閃光が、その姿を照らし出した。"
+    "message": "XXX。"
   }
 ]
 ```
